@@ -49,7 +49,7 @@ public class Canvas {
      * @param title  title to appear in Canvas Frame
      * @param width  the desired width for the canvas
      * @param height  the desired height for the canvas
-     * @param bgClour  the desired background colour of the canvas
+     * @param background  the desired background colour of the canvas
      */
     private Canvas(String title, int width, int height, Color background) {
         this.frame = new JFrame();
@@ -70,7 +70,7 @@ public class Canvas {
      * when made visible. This method can also be used to bring an already
      * visible canvas to the front of other windows.
      * @param visible  boolean value representing the desired visibility of
-     * the canvas (true or false) 
+     * the canvas (true or false)
      */
     public void setVisible(boolean visible) {
         if (this.graphic == null) {
@@ -88,7 +88,7 @@ public class Canvas {
 
     /**
      * Draw a given image onto the canvas.
-     * @param  referenceObject  an object to define identity for this image
+     * @param  object  an object to define identity for this image
      * @param  image            the image object to be drawn on the canvas
      * @param  transform        the transformation applied to the image
      */
@@ -103,7 +103,7 @@ public class Canvas {
 
     /**
      * Erase a given shape's from the screen.
-     * @param  referenceObject  the shape object to be erased 
+     * @param  object  the shape object to be erased
      */
     public void erase(Object object) {
         this.objects.remove(object);   // just in case it was already there
@@ -112,7 +112,7 @@ public class Canvas {
 
     /**
      * Set the foreground colour of the Canvas.
-     * @param  newColour   the new colour for the foreground of the Canvas 
+     * @param  color   the new colour for the foreground of the Canvas
      */
     public void setForegroundColor(String color) {
         if (color.equals("red")) {

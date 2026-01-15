@@ -1,6 +1,6 @@
 24.1.2023
 
-My 1st year Java class university project based on video game The Binding Of Isaac.
+1st year Java class university project based on video game The Binding Of Isaac.
 
 Manager, Canvas and Image serving as the "engine" provided by the tutor.
 

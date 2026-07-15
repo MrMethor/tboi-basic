@@ -1,4 +1,4 @@
-# The Burning Of Isaac Remake
+# The Burning Of Isaac Basic
 ## Description
 First iteretion of [The Binding Of Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) clones.
 * Status - COMPLETE

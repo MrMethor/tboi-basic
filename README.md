@@ -35,6 +35,6 @@ This is the first of three tboi clone projects.
 24.1.2023
 
 ## Sources
-Links for used textures and other resources are listed in the "sources.txt"
+Links for used textures and other resources are listed in [here](https://github.com/MrMethor/tboi-basic/blob/master/extra/sources.txt).
 
 ## [License](https://github.com/MrMethor/tboi-remake/blob/master/LICENSE)

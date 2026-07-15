@@ -5,7 +5,7 @@ First iteretion of [The Binding Of Isaac](https://store.steampowered.com/app/250
 * [Follow-up project](https://github.com/MrMethor/tboi-remake)
 ### Features
 * Random dungeon map generation with few basic room types
-* Enemy that walks in players direction and collides with objects (no AI)
+* Enemy that walks in players direction and collides with objects
 * Powerups that enhance a random stats
 * Responsive 2D movement, physics and combat
 * Basic sound effects and music
